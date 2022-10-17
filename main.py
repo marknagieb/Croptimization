@@ -38,7 +38,7 @@ def read_data():
 data_table, crops_table = read_data()
 
 
-st.title("Crop Optimization By Location")
+st.title("Croptimization")
 st.write("Based on soil properties and weather conditions")
 
 
